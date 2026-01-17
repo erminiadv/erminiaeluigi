@@ -38,7 +38,7 @@ a { color: inherit; text-decoration: none; }
 /* ===== Design Tokens ===== */
 :root{
   /* Fonts */
-  --font-names: "Cormorant Garamond", serif;
+  --font-names: "DM Sans", serif;
   --font-text:  "DM Sans", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
 
   /* Palette */
