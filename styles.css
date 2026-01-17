@@ -110,7 +110,7 @@ a { color: inherit; text-decoration: none; }
 
 .hero.hero-card .hero-title{
   margin: 0;
-  font-family: var(--font-names);
+  font-family: var(--font-text);
   font-weight: 500;
   letter-spacing: .06em;
   text-transform: uppercase;
@@ -154,7 +154,7 @@ a { color: inherit; text-decoration: none; }
 
 #story .display{
   margin: 0 auto 42px;
-  font-family: var(--font-names);
+  font-family: var(--font-text);
   font-weight: 500;
   letter-spacing: .06em;
   text-transform: uppercase;
